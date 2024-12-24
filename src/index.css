@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.custom-btn{
+  @apply btn border-0 bg-gradient-to-r from-indigo-500 to-indigo-800
+}
+
+.custom-text{
+  @apply inline-block bg-gradient-to-r from-indigo-500 to-indigo-800 bg-clip-text text-transparent
+}

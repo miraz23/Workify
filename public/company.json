@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "company_logo": "https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg",
+        "job_title": "Sr. Software Engineer",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$90,000 - $110,000",
+        "job_description": "As a software engineer, you will work on a specific project critical to Google's needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.",
+        "job_responsibility": "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency.",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "1 year of experience with software design and architecture",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "google@career.com"
+        }
+    },
+    {
+        "id": 2,
+        "company_logo": "https://www.logo.wine/a/logo/Airbnb/Airbnb-Logo.wine.svg",
+        "job_title": "Solution Architect",
+        "company_name": "Airbnb",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$80,000 - $120,000",
+        "job_description": "Our team is looking for a high performance Solutions Architect with an entrepreneurial mindset. As a Solutions Architect, you will lead the advertising industry by enabling clients to realize the full potential of Facebook's marketing solutions and even defining new solutions. You will work with marketing executives at top-tier companies on their industry-leading advertising initiatives, translating their business goals into an execution plan using Facebook’s suite of cutting-edge advertising solutions. This role will allow you to apply your passion for problem solving to achieving real-world marketing results at Facebook scale",
+        "job_responsibility": "Work as part of a broader Solutions Go-To-Market team to contribute technical assets, prioritize, and shape solution direction, while impacting business and bookings. Provide domain expertise around public cloud and enterprise technology, promote Google Cloud with customers, at conferences, and online",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "2+ Years in this field.",
+        "contact_information": {
+            "phone": "559-559-5959",
+            "email": "airbnb@career.com"
+        }
+    },
+    {
+        "id": 3,
+        "company_logo": "https://www.logo.wine/a/logo/Netflix/Netflix-Logo.wine.svg",
+        "job_title": "Dev Ops Engineer",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Onsite",
+        "location": "Chicago, IL",
+        "fulltime_or_parttime": "Part-time",
+        "salary": "$95,000 - $120,000",
+        "job_description": "Next Games is a Netflix Game Studio, focusing on creating compelling fans-first interactive experiences by combining the stories of well-known movies and shows with engaging game mechanics. An unwavering focus on fans and fun gameplay is at the core of the studio’s game development, free from the constraints of free-to-play. The Senior DevOps Engineer will help us to create fun!",
+        "job_responsibility": "You will be responsible for improving and developing our CI/CD pipelines, identifying issues and performance improvements, and implementing integrations so that our game developers can focus on creating fabulous games. As the ideal candidate you will have a solid background in software engineering and be familiar with C# and Shell scripts. GitHub is our primary repository system, where GitHub workflows are a must for us. The DevOps team works with developers and engineers of the game teams to ensure that software development follows established processes and works as intended. The DevOps engineer will also help plan projects and be involved in project management decisions.",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "1+ year of experience in this field",
+        "contact_information": {
+            "phone": "656-566-5566",
+            "email": "netflix@career.com"
+        }
+    },
+    {
+        "id": 4,
+        "company_logo": "https://www.logo.wine/a/logo/Planet_Labs/Planet_Labs-Logo.wine.svg",
+        "job_title": "Data Engineer",
+        "company_name": "Planet",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$115,000 - $145,000",
+        "job_description": "As part of our Video Engineering group, you'll help deliver creative solutions to various problems that could impact the people all over the world. ",
+        "job_responsibility": "This Data Engineer will work closely with other members of the Video Engineering group to mine data, implement model evaluation pipeline, analyze large scale data, visualize data, and ensure the delivery is of the highest quality. This position will also require strong coding skills, presentation skills, and collaborating with multiple teams (ex: machine learning, cloud infrastructure support).",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "1+ year of experience in this field",
+        "contact_information": {
+            "phone": "444-455-4455",
+            "email": "planet@career.com"
+        }
+    },
+    {
+        "id": 5,
+        "company_logo": "https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Wordmark-Red-Logo.wine.svg",
+        "job_title": "Industrial Engineer",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$95,000 - $145,000",
+        "job_description": "Tesla is currently seeking a motivated and accomplished Industrial Engineer who will be the owner of Material Flow initiatives for production. The position will be based in Lathrop site of Tesla.",
+        "job_responsibility": "Display a positive attitude and practice strong work ethics that reflects the mission, philosophy and goals of Tesla. Work with internal operations and material flow engineering teams to ensure that equipment and layout designs align with the overall material flow plan and vision for the factory",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "2+ year of experience in this field",
+        "contact_information": {
+            "phone": "565-565-5655",
+            "email": "tesla@career.com"
+        }
+    },
+    {
+        "id": 6,
+        "company_logo": "https://www.logo.wine/a/logo/Stripe_(company)/Stripe_(company)-Logo.wine.svg",
+        "job_title": "Product Manager",
+        "company_name": "Stripe",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$75,000 - $115,000",
+        "job_description": "As a Principal Software Engineer in this org, you will architect on customer scenarios to build modern experiences for IT workers and building world class backend and analytical services s. In this role you will be working on one of the following design problems 1. Modernize our Resource Access microservices for scale and simplicity 2. Scale Intune reporting capabilities and improve visibility on device compliance levels 3.Scale device health data pipelines and build experimentation platform within compliance boundary.",
+        "job_responsibility": "Develop design approaches, evaluate pros/cons of approaches for a feature enhancement. Become subject matter expert in the owned features. Mentor the team members with technical guidance and improve the engineering process. Active coding and participation in peer code review, design reviews. Lead the team in hackathons and promote new ideas.",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "3+ year of experience in this field",
+        "contact_information": {
+            "phone": "225-255-2255",
+            "email": "stripe@career.com"
+        }
+    },
+    {
+        "id": 7,
+        "company_logo": "https://www.logo.wine/a/logo/Walmart/Walmart-Logo.wine.svg",
+        "job_title": "Automation Engineering",
+        "company_name": "Walmart",
+        "remote_or_onsite": "Onsite",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$135,000 - $150,000",
+        "job_description": "As a part of the Walmart Supply Chain organization, you will contribute to the growth and delivery of our Supply Chain Engineering team! Why? Because Sam Walton founded our company with the belief that the customer is #1. It is not just a belief, but our way of doing business. With our Supply Chain Team at the forefront of retail transformation you can work on a team that is ultimately focused on delighting our customers, saving them both time and money in unexpected ways",
+        "job_responsibility": "Leading a team of engineers to transform the world's largest grocery supply chain by implementing new processes and technology. Enabling more intelligent investment decisions by providing granularity of costs throughout the supply chain",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "3+ year of experience in automation design and implementation",
+        "contact_information": {
+            "phone": "235-235-2355",
+            "email": "walmart@career.com"
+        }
+    },
+    {
+        "id": 8,
+        "company_logo": "https://www.logo.wine/a/logo/Snowflake_Inc./Snowflake_Inc.-Logo.wine.svg",
+        "job_title": "Cloud Services Engineering",
+        "company_name": "Snowflake_Inc",
+        "remote_or_onsite": "Onsite",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$95,000 - $130,000",
+        "job_description": "We're hiring talented Cloud Services Engineers that are passionate about using software-based approaches to solve complex challenges and automate those solutions.  You’ll be part of the cloud engineering organization where we have a strong focus on using engineering and software practices to manage and scale our cloud infrastructure.  Working in cloud engineering, you’ll lead and contribute to initiatives aimed at supporting our infrastructure, process, systems, and automation.  You’ll build a deep understanding of Snowflake's service and use that knowledge to optimize and evolve our infrastructure reliability, availability, serviceability, and profitability.",
+        "job_responsibility": "Working in cloud engineering, you'll lead and contribute to initiatives aimed at supporting our infrastructure, process, systems, and automation, A deep understanding of Snowflake's service and use that knowledge to optimize and evolve our infrastructure reliability, availability, serviceability, and profitability",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "3+ year of experience in infrastructure-as-code, including using tools like Terraform and Ansible",
+        "contact_information": {
+            "phone": "233-233-2332",
+            "email": "snowflake@career.com"
+        }
+    },
+    {
+        "id": 9,
+        "company_logo": "https://www.logo.wine/a/logo/Meta_Platforms/Meta_Platforms-Logo.wine.svg",
+        "job_title": "Technical Program Manager",
+        "company_name": "Meta",
+        "remote_or_onsite": "Onsite",
+        "location": "Seattle, WA ",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$85,000 - $145,000",
+        "job_description": "This team of mission-minded individuals are experts in the landscape of device and systems security and are passionate about building capabilities and solutions to implement the correct safeguards and technical mitigations to ensure that our users’ security is honored across the Meta family of products. We work with RL product and Meta central security teams to define, design, implement and manage these solutions at 1) Device HW, 2) OS, and 3) 1P/3P App layers.",
+        "job_responsibility": "Manage engineering programs that enhance security of Meta Reality Labs' products and infrastructure. Identify product needs in technically complex areas, scope the requirements, and collaborate with Engineering to lay out end-to-end detailed schedules and plans. Identify and manage risks. Develop, track, and communicate roadmaps, execution plans, proposals, status updates, and key decisions.Develop end to end processes, mechanisms, cadence and scalable frameworks to manage vulnerability lifecycle.",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "2+ year of experience in systems security",
+        "contact_information": {
+            "phone": "273-273-2772",
+            "email": "meta@career.com"
+        }
+    },
+    {
+        "id": 10,
+        "company_logo": "https://www.logo.wine/a/logo/Amazon_(company)/Amazon_(company)-Logo.wine.svg",
+        "job_title": "Site Reliability Engineer",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Onsite",
+        "location": "GB, London",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$75,000 - $110,000",
+        "job_description": "Would you like to be an Engineer that builds the Cloud, rather than an Engineer that just uses it? At AWS, our Engineers look after the behind-the-scenes software and tools that make the world's largest cloud computing infrastructure possible. We have an amazing opportunity for you to join a world-class network team in a dynamic environment that has the feel of a start-up. As a Site Reliability Engineer (SRE) you will help to deploy, manage, fix and reinvent the tools, services and components that the network engineers rely on to automate our network and keep it operational. Your internal customers are your network engineering colleagues, and through close collaboration, support and exchange of ideas, we share a common goal to serve our external customers and grow through learning and innovation.",
+        "job_responsibility": "Simplifying and reinventing systems, processes, and tools to make things better for our customers. Managing and growing innovative, production-quality tools to solve real operational problems for our network. Investigating technical issues scientifically and thoroughly, and assist in fixing them so they don't come back. Providing technical solutions to real business problems in a global organization",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "2+ year of experience in a large - scale network environment",
+        "contact_information": {
+            "phone": "239-239-2399",
+            "email": "amazon@career.com"
+        }
+    }
+]
