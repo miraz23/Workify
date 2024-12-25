@@ -5,16 +5,15 @@ const Footer = () => {
     return (
         <div>
             <footer aria-label="Site Footer" className=" bg-slate-200 font-medium rounded-t-3xl mt-10">
-                <div
-                    className="max-w-screen-xl px-4 py-8 mx-auto space-y-8 sm:px-6 lg:space-y-16 lg:p-12 ">
+                <div className="max-w-screen-xl px-4 py-8 mx-auto space-y-8 text-center md:text-left lg:text-left sm:px-6 lg:space-y-16 lg:p-12 ">
                     <div className="grid grid-cols-1 gap-8 lg:grid-cols-3 ">
                         <div> 
-                            <p className='text-5xl custom-text'>Workify</p>
-                            <p className="max-w-xs mt-4 text-gray-500 text-start">
+                            <p className='text-5xl custom-text text-center mx-auto lg:text-start'>Workify</p>
+                            <p className="max-w-xs mt-4 text-gray-500 text-center mx-auto lg:text-start">
                             Explore thousands of job opportunities with all the information you need. Its your future. Come find it. Manage all your job application from start to finish.
                             </p>
 
-                            <ul className="flex gap-6 mt-8 justify-center md:justify-start">
+                            <ul className="flex gap-6 mt-8 justify-center lg:justify-start">
                                 <li>
                                     <Link to="#" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:opacity-80">
                                         <span className="sr-only">Facebook</span>
@@ -42,7 +41,7 @@ const Footer = () => {
                             </ul>
                         </div>
 
-                        <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:col-span-2 lg:grid-cols-4">
+                        <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:flex md:justify-center lg:col-span-2 lg:grid-cols-4">
                             <div>
                                 <p className="font-medium text-gray-900">Services</p>
                                 <nav aria-label="Footer Navigation - Services" className="mt-6 ">

@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 
 import Home from "./Components/Home";
+import Jobs from './Components/Jobs.jsx';
 import Job from './Components/Job.jsx';
 import Application from './Components/Application.jsx';
 
@@ -19,12 +20,16 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        loader: ()=>fetch('/company.json'),
         element: <Home/>,
       },
       {
         path: "applications",
         element: <Application/>,
+      },
+      {
+        path: "jobs",
+        loader: ()=>fetch('/company.json'),
+        element: <Jobs/>,
       },
       {
         path: "details/:id",

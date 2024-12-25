@@ -7,7 +7,7 @@ const Jobs = () => {
     const [seeAll, setAll] = useState(false);
 
     return (
-        <div className='text-center my-6' id="jobs">
+        <div className='text-center my-6 mx-10'>
             <h1 className='text-5xl custom-text p-4'>Featured Jobs </h1>
             <p className='text-lg my-4'>Explore thousands of job opportunities with all the information you need. It's your future.</p>
             <div className="grid md:grid-cols-2 gap-4 mt-10 md:w-3/4 mx-auto">
@@ -36,7 +36,7 @@ const Jobs = () => {
                                     </div>
                                 </div>
                                 <div>
-                                    <Link to={`/details/${job.id}`} className='custom-btn mt-4 w-full'>View Details</Link>
+                                    <a href={`/details/${job.id}`} className='custom-btn mt-4 w-full'>View Details</a>
                                 </div>
                             </div>
                         </div>

@@ -7,7 +7,7 @@ const Application = () => {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        const getData = JSON.parse(localStorage.getItem('appliedJobs'));
+        const getData = JSON.parse(localStorage.getItem('appliedJobs')) || [];
         setStoredJob(getData);
         setData(getData);
     }, []);
